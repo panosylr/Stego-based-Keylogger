@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="Referenced Libraries"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="lib" path="Referenced Libraries/jai_codec.jar"/>
+	<classpathentry kind="lib" path="Referenced Libraries/jai_core.jar"/>
+	<classpathentry kind="lib" path="Referenced Libraries/steganography-1.5.1.jar"/>
+	<classpathentry kind="lib" path="Referenced Libraries/lib/dsn.jar"/>
+	<classpathentry kind="lib" path="Referenced Libraries/lib/gimap.jar"/>
+	<classpathentry kind="lib" path="Referenced Libraries/lib/imap.jar"/>
+	<classpathentry kind="lib" path="Referenced Libraries/lib/mailapi.jar"/>
+	<classpathentry kind="lib" path="Referenced Libraries/lib/pop3.jar"/>
+	<classpathentry kind="lib" path="Referenced Libraries/lib/smtp.jar"/>
+	<classpathentry kind="lib" path="Referenced Libraries/mail.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
