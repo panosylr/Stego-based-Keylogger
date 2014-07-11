@@ -1,0 +1,6 @@
+A 1234567890 sasda1 sadf arxeio.dat 123 1234.4567.8888.4567 sdfds sdfdsf ssdfsd 0werwer werwer
+sasda2 aadf arxeio.dat 124 1234.4567.8888.4567 sdfds sdfdsf ssdfsd awerwer werwer1 fhfgh
+sasda3  hsbc.com  username1  password1 badf arxeio.dat 125 1234.4567.8888.4567 sdfds sdfdsf ssdfsd bwerwer werwer2 rtytr
+john@abcd.eu  cadf arxeio.dat 226 1234.4567.8888.4568 sdfds sdfdsf ssdfsd cwerwer werwer3
+www.abcd.gr dadf arxeio.dat 327 barclays.co.uk username2  password2 www.abced.fr 1234.4567.8888.4569 sdfds 
+sdfdsf ssdfsd 1234456788884567 dwerwer werwer4 123  sdfsdf werwe
